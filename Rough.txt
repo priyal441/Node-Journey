@@ -2,3 +2,20 @@ Blocking Operations= Sync Operations
 default thread pool size=4
 max dp
 Non Blocking Operations=Non Sync Operations
+
+
+"^5.2.1",
+1=5
+2=2
+3=1 
+
+
+3rd part (last part) -minor fixes (optional) 
+
+2nd part 2 -Recommended Bug Fix (Security Bug fix)
+
+1st major update version 5 -Major update 
+
+^-Install all Recommended and minor fixes automatically
+
+~- Install all Minor Fixes 
