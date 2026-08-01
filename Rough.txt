@@ -1,0 +1,4 @@
+Blocking Operations= Sync Operations
+default thread pool size=4
+max dp
+Non Blocking Operations=Non Sync Operations
