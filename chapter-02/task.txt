@@ -1,0 +1,11 @@
+
+GET/api/users
+
+get/api/users/1
+
+Dyanmic Path Parameters
+
+Get/api/users/:id
+:id-> variable |Dynamic
+
+
